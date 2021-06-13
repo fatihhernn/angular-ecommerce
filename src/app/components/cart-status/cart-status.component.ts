@@ -8,6 +8,8 @@ import {CartService} from '../../services/cart.service';
 })
 export class CartStatusComponent implements OnInit {
 
+
+
   totalPrice:number=0.00
   totalQuantity:number=0
 

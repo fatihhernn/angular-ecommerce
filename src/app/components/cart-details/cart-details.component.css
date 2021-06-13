@@ -1,0 +1,9 @@
+.removeBtn{
+  background: crimson;
+  padding: 7px 20px;
+  text-align: center;
+  display: inline-block;
+  color: rgb(255,243,233);
+  font-size: 14px;
+  margin-top: 5px;
+}
