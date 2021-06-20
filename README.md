@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="" width="400" height="200" alt=".netProject">
+</p>
+
+
 # AngularEcommerce
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.5.
